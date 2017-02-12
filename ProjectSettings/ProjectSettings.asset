@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 10
-  productGUID: ed4c7a86ecfb645ccb2647ba535f74d2
+  productGUID: af31bca9337a94f47b1f09ab2e2d670b
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -287,7 +287,7 @@ PlayerSettings:
   ps4DownloadDataSize: 0
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
-  ps4Passcode: 9wQj99nsQzldVI5ZuGXbEWRK5RhRXdCd
+  ps4Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
   ps4UseDebugIl2cppLibs: 0
   ps4pnSessions: 1
   ps4pnPresence: 1
@@ -334,7 +334,7 @@ PlayerSettings:
   psp2LiveAreaTrialPath: 
   psp2PatchChangeInfoPath: 
   psp2PatchOriginalPackage: 
-  psp2PackagePassword: G5nG5azdNMK66MuCV6GXi5xr84P2R391
+  psp2PackagePassword: F69AzBlax3CF3EDNhm3soLBPh71Yexui
   psp2KeystoneFile: 
   psp2MemoryExpansionMode: 0
   psp2DRMType: 0
@@ -461,6 +461,7 @@ PlayerSettings:
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
   cloudServicesEnabled:
+    Build: 1
     Collab: 1
     UNet: 1
   cloudProjectId: f84966ff-6ac8-4e2d-891f-8c5203ad3aba
